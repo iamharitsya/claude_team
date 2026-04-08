@@ -288,9 +288,6 @@ Main Agent ──(relay lock)──→ Orchestrator
 
 ## Related Projects
 
-| Project | Description |
-|---------|-------------|
-| [pro-workflow](https://github.com/rohitg00/pro-workflow) | Self-correcting memory via SQLite + FTS5 — 24 skills, 8 agents, 29 hooks |
 | [superpowers](https://github.com/obra/superpowers) | Claude Code built-in `/team` |
 | [thinkabout](https://github.com/thinkabout-team/thinkabout) | Intent clarification before `/team` execution |
 
