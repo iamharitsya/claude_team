@@ -292,7 +292,6 @@ Main Agent ──(relay lock)──→ Orchestrator
 ## Related Projects
 
 | [superpowers](https://github.com/obra/superpowers) | Claude Code built-in `/team` |
-| [thinkabout](https://github.com/thinkabout-team/thinkabout) | Intent clarification before `/team` execution |
 
 ---
 
