@@ -1,4 +1,7 @@
-# /team — Multi-Agent Orchestration for Claude Code
+<img width="939" height="508" alt="claude code skill" src="https://github.com/user-attachments/assets/04c5ca1f-c93d-417a-88d6-3d3c35d82459" />
+
+
+# "Team Skill" — Multi-Agent Orchestration for Claude Code
 
 <p align="center">
   <a href="https://github.com/iamharitsya/claude_team"><img src="https://img.shields.io/github/stars/iamharitsya/claude_team?style=for-the-badge&logo=github&color=D97757&labelColor=1e1e2e" alt="Stars"/></a>
